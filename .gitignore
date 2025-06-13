@@ -1,0 +1,7 @@
+.env
+segments/
+segments1/
+Transcription-API/
+*.wav
+*.mp3
+*json
